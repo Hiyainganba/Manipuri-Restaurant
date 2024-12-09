@@ -1,0 +1,92 @@
+# Query: Hiyainganba Ningthoujam# ContextLines: 1
+
+27 results - 3 files
+
+yai-master\index.html:
+    11    -->
+    12:   <title>Yai - Amazing & Delicious Food</title>
+    13:   <meta name="title" content="YAI - Amazing & Delicious Food">
+    14    <meta name="description" content="This is a Restaurant html template made by codewithhiyai">
+
+    49      <div class="circle"></div>
+    50:     <p class="text">Yai</p>
+    51    </div>
+
+   116        <a href="#" class="logo">
+   117:         <img src="./assets/images/logo.svg" width="160" height="100" alt="YAIIII">
+   118        </a>
+
+   126          <a href="#" class="logo">
+   127:           <img src="./assets/images/logo.svg" width="160" height="100" alt="YAIIII">
+   128          </a>
+
+   183  
+   184:           <a href="mailto:booking@yai.com" class="body-4 sidebar-link">booking@yai.com</a>
+   185  
+
+  1089            <a href="#" class="logo">
+  1090:             <img src="./assets/images/logo.svg" width="160" height="100" loading="lazy" alt="YAIIII">
+  1091            </a>
+
+  1096  
+  1097:           <a href="mailto:booking@yai.com" class="body-4 contact-link">booking@yai.com</a>
+  1098  
+
+  1185          <p class="copyright">
+  1186:           &copy; 2022 Yai. All Rights Reserved | Crafted by <a href="https://github.com/codewithhiyai"
+  1187              target="_blank" class="link">codewithhiyai</a>
+
+yai-master\index.txt:
+    1: Yai - Amazing & Delicious Food
+    2  
+
+   24  
+   25: alt = Yai - Home
+   26  
+
+   42  
+   43: booking@Yai.com
+   44  
+
+  309  
+  310: alt = Yai home
+  311  
+
+  313  
+  314: booking@Yai.com
+  315  
+
+  341  
+  342: &copy; 2022 Yai. All Rights Reserved | Crafted by
+  343  
+
+yai-master\README.md:
+   2    
+   3:   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/yai)
+   4:   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/yai?style=social)
+   5:   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/yai?style=social)
+   6  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+
+  11  
+  12:   <h2 align="center">Yai - Restaurant Website</h2>
+  13  
+  14:   Yai is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  15  
+  16:   <a href="https://codewithsadee.github.io/yai/"><strong>➥ Live Demo</strong></a>
+  17  
+
+  23  
+  24: ![Yai Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+  25  
+
+  33  
+  34: To run **Yai** locally, run this command on your git bash:
+  35  
+
+  38  ```bash
+  39: sudo git clone https://github.com/codewithsadee/Yai.git
+  40  ```
+
+  44  ```bash
+  45: git clone https://github.com/codewithsadee/Yai.git
+  46  ```
